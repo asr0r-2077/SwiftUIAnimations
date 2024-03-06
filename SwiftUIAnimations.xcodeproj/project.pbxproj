@@ -11,6 +11,8 @@
 		10BFE0F62B989E0500F553C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE0F52B989E0500F553C3 /* ContentView.swift */; };
 		10BFE0F82B989E0600F553C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10BFE0F72B989E0600F553C3 /* Assets.xcassets */; };
 		10BFE0FB2B989E0600F553C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10BFE0FA2B989E0600F553C3 /* Preview Assets.xcassets */; };
+		10BFE1022B989F6A00F553C3 /* Animation1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE1012B989F6A00F553C3 /* Animation1.swift */; };
+		10BFE1042B98AE3B00F553C3 /* Animation2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE1032B98AE3B00F553C3 /* Animation2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		10BFE0F52B989E0500F553C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		10BFE0F72B989E0600F553C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10BFE0FA2B989E0600F553C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		10BFE1012B989F6A00F553C3 /* Animation1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation1.swift; sourceTree = "<group>"; };
+		10BFE1032B98AE3B00F553C3 /* Animation2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				10BFE0F32B989E0500F553C3 /* SwiftUIAnimationsApp.swift */,
 				10BFE0F52B989E0500F553C3 /* ContentView.swift */,
+				10BFE1012B989F6A00F553C3 /* Animation1.swift */,
+				10BFE1032B98AE3B00F553C3 /* Animation2.swift */,
 				10BFE0F72B989E0600F553C3 /* Assets.xcassets */,
 				10BFE0F92B989E0600F553C3 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10BFE1022B989F6A00F553C3 /* Animation1.swift in Sources */,
+				10BFE1042B98AE3B00F553C3 /* Animation2.swift in Sources */,
 				10BFE0F62B989E0500F553C3 /* ContentView.swift in Sources */,
 				10BFE0F42B989E0500F553C3 /* SwiftUIAnimationsApp.swift in Sources */,
 			);
