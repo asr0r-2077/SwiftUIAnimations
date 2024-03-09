@@ -7,15 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1004D1792B9C93D300BA2805 /* Animation4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1004D1782B9C93D300BA2805 /* Animation4.swift */; };
+		1004D17B2B9C965F00BA2805 /* Animation5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1004D17A2B9C965F00BA2805 /* Animation5.swift */; };
+		1004D17D2B9CA49500BA2805 /* Animation6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1004D17C2B9CA49500BA2805 /* Animation6.swift */; };
 		10BFE0F42B989E0500F553C3 /* SwiftUIAnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE0F32B989E0500F553C3 /* SwiftUIAnimationsApp.swift */; };
 		10BFE0F62B989E0500F553C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE0F52B989E0500F553C3 /* ContentView.swift */; };
 		10BFE0F82B989E0600F553C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10BFE0F72B989E0600F553C3 /* Assets.xcassets */; };
 		10BFE0FB2B989E0600F553C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10BFE0FA2B989E0600F553C3 /* Preview Assets.xcassets */; };
 		10BFE1022B989F6A00F553C3 /* Animation1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE1012B989F6A00F553C3 /* Animation1.swift */; };
 		10BFE1042B98AE3B00F553C3 /* Animation2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE1032B98AE3B00F553C3 /* Animation2.swift */; };
+		10BFE1062B98B85000F553C3 /* Animation3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BFE1052B98B85000F553C3 /* Animation3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1004D1782B9C93D300BA2805 /* Animation4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation4.swift; sourceTree = "<group>"; };
+		1004D17A2B9C965F00BA2805 /* Animation5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation5.swift; sourceTree = "<group>"; };
+		1004D17C2B9CA49500BA2805 /* Animation6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation6.swift; sourceTree = "<group>"; };
 		10BFE0F02B989E0500F553C3 /* SwiftUIAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10BFE0F32B989E0500F553C3 /* SwiftUIAnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimationsApp.swift; sourceTree = "<group>"; };
 		10BFE0F52B989E0500F553C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -23,6 +30,7 @@
 		10BFE0FA2B989E0600F553C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		10BFE1012B989F6A00F553C3 /* Animation1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation1.swift; sourceTree = "<group>"; };
 		10BFE1032B98AE3B00F553C3 /* Animation2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation2.swift; sourceTree = "<group>"; };
+		10BFE1052B98B85000F553C3 /* Animation3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				10BFE0F52B989E0500F553C3 /* ContentView.swift */,
 				10BFE1012B989F6A00F553C3 /* Animation1.swift */,
 				10BFE1032B98AE3B00F553C3 /* Animation2.swift */,
+				10BFE1052B98B85000F553C3 /* Animation3.swift */,
+				1004D1782B9C93D300BA2805 /* Animation4.swift */,
+				1004D17A2B9C965F00BA2805 /* Animation5.swift */,
+				1004D17C2B9CA49500BA2805 /* Animation6.swift */,
 				10BFE0F72B989E0600F553C3 /* Assets.xcassets */,
 				10BFE0F92B989E0600F553C3 /* Preview Content */,
 			);
@@ -144,8 +156,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				10BFE1022B989F6A00F553C3 /* Animation1.swift in Sources */,
+				1004D17D2B9CA49500BA2805 /* Animation6.swift in Sources */,
 				10BFE1042B98AE3B00F553C3 /* Animation2.swift in Sources */,
+				10BFE1062B98B85000F553C3 /* Animation3.swift in Sources */,
+				1004D1792B9C93D300BA2805 /* Animation4.swift in Sources */,
 				10BFE0F62B989E0500F553C3 /* ContentView.swift in Sources */,
+				1004D17B2B9C965F00BA2805 /* Animation5.swift in Sources */,
 				10BFE0F42B989E0500F553C3 /* SwiftUIAnimationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
